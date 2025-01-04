@@ -1,4 +1,5 @@
-Survey Analysis of Data Professionals
+##Survey Analysis of Data Professionals
+
 This repository contains a Power BI project analyzing survey data from data professionals. The project provides insights into the demographics, preferences, challenges, and satisfaction levels of individuals working in the data field.
 
 Project Overview
